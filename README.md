@@ -32,6 +32,7 @@ Then add the following code to the fields:
   --rcx-tooltip-text-color: #fff;
   --sidebar-width: 230px;
   --tags-color: #b45817;
+  --tags-border-color: #d3d3d3;
 }
 
 /**
@@ -54,7 +55,7 @@ Then add the following code to the fields:
   --dark-color-danger: #ee7663;
   --tags-color: #ff984f;
   --tags-background-color: #313538;
-  --tags-border-color: #757981;
+  --tags-border-color: #46474a;
   --message-header-name-color: #c2c7cf;
   --icon-background-color: #2f3b46;
   --sidebar-background-color: #292b2f;
@@ -126,6 +127,12 @@ Then add the following code to the fields:
   --sidebar-background-light-hover: var(--dark-background-hover);
   --rcx-tag-colors-default-background-color: var(--dark-color);
   --rcx-tag-colors-secondary-background-color: #e4e7ea;
+
+  /* Common inputs */
+  --input-border-color: var(--dark-border-color-dim);
+  --info-font-color: var(--dark-color-neutral);
+  --input-text-color: var(--dark-color);
+  --primary-background-color: var(--color-light-blue);
 }
 
 /**
@@ -218,7 +225,7 @@ Then add the following code to the fields:
 }
 
 .dark-mode .emoji-picker {
-  background-color: rgba(37, 36, 36, 0.98);
+  background-color: rgba(26, 28, 29, 0.98);
 }
 
 .dark-mode .message .reactions > li,
