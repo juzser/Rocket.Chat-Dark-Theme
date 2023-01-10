@@ -10,6 +10,9 @@ I also customized the sidebar a bit, you can change the sidebar width by changin
 
 Have fun!
 
+<img width="227" alt="Screenshot 2023-01-10 at 10 28 16" src="https://user-images.githubusercontent.com/5735071/211455601-1f7bee07-9d30-46db-ab48-692ff81bfc71.png">
+
+
 ## Installation
 
 Go to Admin > Settings > Layout.
